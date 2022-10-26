@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 Education
-======
+-----
 **University of California, Berkeley**, Berkeley, CA, USA\
 Ph.D. in Business Administration (Quantitative Marketing), May 2024 (expected)\
 Graduate Certificate in Applied Data Science, May 2021\
@@ -28,7 +28,7 @@ B.Sc. in Economics and Finance, with First Class Honors, Jun 2015
 -----
 
 Selected Experience
-======
+-----
 **Uber Technologies Inc.**, San Francisco, CA, USA\
 Applied Scientist PhD Intern, May 2022–Aug 2022	
 
@@ -38,7 +38,7 @@ Graduate Student Researcher for Prof. Giovanni Compiani, Berkeley-Haas, Feb 2019
 -----
 
 Selected Fellowship, Grants, and Awards
-======
+-----
 Wu Family Fellowship, Institute for Business Innovation, University of California, Berkeley, Feb 2022\
 Department Fellowship, Haas School of Business, University of California, Berkeley, 2018–2023\
 Graduate Academic Achievement Award, University of Wisconsin, Madison, May 2018\
