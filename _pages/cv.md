@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 Education
------
+------
 **University of California, Berkeley**, Berkeley, CA, USA\
 Ph.D. in Business Administration (Quantitative Marketing), May 2024 (expected)\
 Graduate Certificate in Applied Data Science, May 2021\
