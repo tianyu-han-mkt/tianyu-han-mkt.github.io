@@ -21,6 +21,5 @@ Selected Work in Progress
 
 Selected Talks
 ======
-* 2022: Uber Eats Pricing and Incentives Jam, Marketing Science Conference Doctoral Symposium, Marketing Analytics Symposium Sydney, Berkeley-Haas Shansby Marketing Seminar, UC Berkeley Finance Lunch
-
-* 2021: UC Berkeley IO Lunch, Berkeley-Haas Marketing Summer PhD Seminar
+2022: Uber Eats Pricing and Incentives Jam, Marketing Science Conference Doctoral Symposium, Marketing Analytics Symposium Sydney, Berkeley-Haas Shansby Marketing Seminar, UC Berkeley Finance Lunch\
+2021: UC Berkeley IO Lunch, Berkeley-Haas Marketing Summer PhD Seminar
