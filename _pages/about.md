@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD candidate in Quantitative Marketing at [Haas School of Business](https://haas.berkeley.edu/), UC Berkeley.
+I am a PhD candidate in Quantitative Marketing at [Haas School of Business](https://haas.berkeley.edu/marketing/), [UC Berkeley](https://www.berkeley.edu/).
 
 My research fields are empirical industrial organization, behavioral economics, and machine learning.
 
