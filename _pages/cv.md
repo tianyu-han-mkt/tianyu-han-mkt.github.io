@@ -25,6 +25,7 @@ M.Sc. in Econometrics and Mathematical Economics, Jun 2017
 **University of Southampton**, Southampton, UK\
 B.Sc. in Economics and Finance, with First Class Honors, Jun 2015
 
+-----
 
 Selected Experience
 ======
@@ -34,6 +35,8 @@ Applied Scientist PhD Intern, May 2022–Aug 2022
 **University of California, Berkeley**, Berkeley, CA, USA\
 Graduate Student Researcher for Prof. Giovanni Compiani, Berkeley-Haas, Feb 2019–Aug 2020
   
+-----
+
 Selected Fellowship, Grants, and Awards
 ======
 Wu Family Fellowship, Institute for Business Innovation, University of California, Berkeley, Feb 2022\
