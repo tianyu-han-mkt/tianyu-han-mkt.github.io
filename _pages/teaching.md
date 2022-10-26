@@ -9,7 +9,7 @@ author_profile: true
 
 University of California, Berkeley
 -----
-##### As a graduate student instructor (GSI)[^1]
+##### As a graduate student instructor (GSI[^1])
 * Marketing (upper-undergraduate), Fall 2022, Spring 2021
 * Intermediate Microeconomics for Business (upper-undergraduate), Spring 2022 (eval: 6.59[^2]), Fall 2021 (eval: 6.5), Summer 2021
 * Intermediate Microeconomics (upper-undergraduate), Fall 2020 (eval: 6.44), Summer 2020 (lead GSI), Summer 2019 (lead GSI, eval: 6.57)
