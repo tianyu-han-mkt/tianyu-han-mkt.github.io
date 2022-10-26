@@ -14,7 +14,7 @@ University of California, Berkeley
 * Intermediate Microeconomics for Business (upper-undergraduate), Spring 2022 (eval: 6.59[^2]), Fall 2021 (eval: 6.5), Summer 2021
 * Intermediate Microeconomics (upper-undergraduate), Fall 2020 (eval: 6.44), Summer 2020 (lead GSI), Summer 2019 (lead GSI, eval: 6.57)
 
-[^1]: A GSI at Berkeley are responsible for teaching discussion sections and holding weekly office hours
+[^1]: A GSI at Berkeley is responsible for teaching discussion sections and holding weekly office hours
 [^2]: Course evaluation scale is out of 7; course evaluation can be unavailable/unconducted for some courses in some semesters 
 
 ##### As a reader
