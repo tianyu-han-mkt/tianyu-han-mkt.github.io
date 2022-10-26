@@ -1,12 +1,14 @@
 ---
 permalink: /
-title: "About"
+title: # "About"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+
+Welcome!
 
 I am a PhD candidate in Quantitative Marketing at [Haas School of Business](https://haas.berkeley.edu/marketing/), [UC Berkeley](https://www.berkeley.edu/).
 
