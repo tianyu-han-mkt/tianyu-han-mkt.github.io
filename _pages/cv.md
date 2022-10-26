@@ -11,49 +11,33 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+**University of California, Berkeley**, Berkeley, CA, USA
+Ph.D. in Business Administration (Quantitative Marketing), May 2024 (expected)
+Graduate Certificate in Applied Data Science, May 2021
+M.S. in Business Administration, Dec 2020
 
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+**University of Wisconsin, Madison**, Madison, WI, USA
+M.S. in Economics, May 2018
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+**London School of Economics and Political Science (LSE)**, London, UK
+M.Sc. in Econometrics and Mathematical Economics, Jun 2017
 
-Publications
+**University of Southampton**, Southampton, UK
+B.Sc. in Economics and Finance, with First Class Honors, Jun 2015
+
+
+Selected Experience
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+**Uber Technologies Inc.**, San Francisco, CA, USA
+Applied Scientist PhD Intern, May 2022–Aug 2022	
+
+**University of California, Berkeley**, Berkeley, CA, USA
+Graduate Student Researcher for Prof. Giovanni Compiani, Berkeley-Haas, Feb 2019–Aug 2020
   
-Talks
+Selected Fellowship, Grants, and Awards
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Wu Family Fellowship, Institute for Business Innovation, University of California, Berkeley, Feb 2022
+* Department Fellowship, Haas School of Business, University of California, Berkeley, 2018–2023
+* Graduate Academic Achievement Award, University of Wisconsin, Madison, May 2018
+* Economics Master Program’s Research Scholarship, University of Wisconsin, Madison, Feb 2017
+* National Scholarship, Ministry of Education of China, Nov 2012 
