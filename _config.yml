@@ -84,10 +84,10 @@ author:
   avatar           : "profile.jpeg"
   bio              : "PhD Candidate in Marketing"
   location         : # "Location"
-  employer         : "Haas School of Business, UC Berkeley"
+  employer         : "Berkeley-Haas"
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : # "http://yourfullgooglescholarurl.com"
-  email            : "tianyu.han@berkeley.edu"
+  email            : #"tianyu.han@berkeley.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
