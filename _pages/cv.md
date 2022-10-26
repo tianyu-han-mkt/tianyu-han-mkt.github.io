@@ -14,7 +14,7 @@ Education
 **University of California, Berkeley**, Berkeley, CA, USA\
 Ph.D. in Business Administration (Quantitative Marketing), May 2024 (expected)\
 Graduate Certificate in Applied Data Science, May 2021\
-M.S. in Business Administration, Dec 2020\
+M.S. in Business Administration, Dec 2020
 
 **University of Wisconsin, Madison**, Madison, WI, USA\
 M.S. in Economics, May 2018

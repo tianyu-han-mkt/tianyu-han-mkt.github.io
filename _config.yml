@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Tianyu Han | Personal Website"
+title                    : "Tianyu Han"
 title_separator          : "-"
 name                     : &name "Tianyu Han"
 description              : &description "PhD Candidate in Quantitative Marketing"
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Tianyu Han"
-  avatar           : "bio-photo-2.jpg"
+  avatar           : "profile.jpeg"
   bio              : "PhD Candidate in Marketing"
   location         : # "Location"
   employer         : "Haas School of Business, UC Berkeley"
