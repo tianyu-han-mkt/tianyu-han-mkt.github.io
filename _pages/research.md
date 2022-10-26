@@ -13,11 +13,13 @@ Selected Working Papers
 
     Abstract: We elicit consumer perceptions about the interest rate associated with credit-card borrowing. Combining bank account data and surveys, we find that consumers have very noisy perceptions about the true interest costs associated with credit card debt. Total borrowing decreases with perceived interest rates only for those with negative perception errors. Using an information treatment that informs the true costs of credit-card borrowing, we find that every percentage point decrease in the perceived rate increases borrowing by 143.1 US dollars.
 
+-----
 
 Selected Work in Progress
 -----
 "A Structural Model of Learning before Choice," with T. Tony Ke and J. Miguel Villas-Boas
 
+-----
 
 Selected Talks
 -----
