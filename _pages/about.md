@@ -13,7 +13,7 @@ Welcome!
 
 I am a PhD candidate in Quantitative Marketing at [Haas School of Business](https://haas.berkeley.edu/marketing/), [UC Berkeley](https://www.berkeley.edu/).
 
-My research fields are empirical industrial organization, behavioral economics, and machine learning.
+My research interests are empirical industrial organization, behavioral economics, and machine learning.
 
 Email: ![email](/images/email.png)
 
