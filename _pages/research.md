@@ -10,7 +10,7 @@ author_profile: true
 Selected Working Papers
 -----
 "Interest Rate Misperception and Excess Borrowing in the Consumer Credit Market," with Xiao Yin ([draft](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4256372))
-![Interest Rate Misperception and Debt](/path/to/debt-bias.png)
+![Interest Rate Misperception and Debt](/images/debt-bias.png)
 <details>
 <summary>Abstract</summary>
 <br>
@@ -22,7 +22,7 @@ Credit cards are usually advertised as financial products of conspicuous quality
 Selected Work in Progress
 -----
 "A Structural Model of Learning before Choice," with T. Tony Ke and J. Miguel Villas-Boas
-![Optimal Search Strategy for Two Alternatives Solved by Deep Reinforcement Learning](/path/to/search-mdp.png)
+![Optimal Search Strategy for Two Alternatives Solved by Deep Reinforcement Learning](/images/search-mdp.png)
 -----
 
 Selected Talks
