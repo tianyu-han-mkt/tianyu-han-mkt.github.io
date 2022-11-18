@@ -10,7 +10,7 @@ author_profile: true
 Selected Working Papers
 -----
 "Interest Rate Misperception and Excess Borrowing in the Consumer Credit Market," with Xiao Yin ([draft](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4256372))
-![Interest Rate Misperception and Debt](/images/debt-bias.png){width=40%}
+![Interest Rate Misperception and Debt](/images/debt-bias.png)
 <details>
 <summary>Abstract</summary>
 <br>
