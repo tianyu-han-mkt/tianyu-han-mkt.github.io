@@ -22,7 +22,7 @@ Credit cards are usually advertised as financial products of conspicuous quality
 Selected Work in Progress
 -----
 "A Structural Model of Learning before Choice," with T. Tony Ke and J. Miguel Villas-Boas
-![Optimal Search Strategy for Two Alternatives Solved by Deep Reinforcement Learning](/images/search-mdp.png){width=80%}
+![Optimal Search Strategy for Two Alternatives Solved by Deep Reinforcement Learning](/images/search-mdp.png)
 
 -----
 
