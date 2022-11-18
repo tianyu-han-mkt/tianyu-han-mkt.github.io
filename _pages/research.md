@@ -23,6 +23,7 @@ Selected Work in Progress
 -----
 "A Structural Model of Learning before Choice," with T. Tony Ke and J. Miguel Villas-Boas
 ![Optimal Search Strategy for Two Alternatives Solved by Deep Reinforcement Learning](/images/search-mdp.png)
+
 -----
 
 Selected Talks
