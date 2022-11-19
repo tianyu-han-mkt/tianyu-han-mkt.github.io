@@ -10,7 +10,6 @@ author_profile: true
 Working Papers
 -----
 "Interest Rate Misperception and Excess Borrowing in the Consumer Credit Market," with Xiao Yin ([draft](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4256372))
-<!-- ![Interest Rate Misperception and Debt](/images/debt-bias.png) -->
 <details>
 <summary>Abstract</summary>
 <br>
@@ -19,13 +18,11 @@ Credit cards are usually advertised as financial products of conspicuous quality
 <img src="/images/debt-bias.png" alt="Interest Rate Misperception and Debt" width="400"/>
 <img src="/images/pr_revision.png" alt="Perceived Interest Rate Revision" width="400"/>
 </details>
-
 -----
 
 Work in Progress
 -----
 "A Structural Model of Learning before Choice," with T. Tony Ke and J. Miguel Villas-Boas
-<!-- ![Optimal Search Strategy for Two Alternatives Solved by Deep Reinforcement Learning](/images/search-mdp.png) -->
 <details>
 <summary>Abstract</summary>
 <br>
