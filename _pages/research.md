@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-Selected Working Papers
+Working Papers
 -----
 "Interest Rate Misperception and Excess Borrowing in the Consumer Credit Market," with Xiao Yin ([draft](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4256372))
 <img src="/images/debt-bias.png" alt="Interest Rate Misperception and Debt" width="500"/>
@@ -20,15 +20,15 @@ Credit cards are usually advertised as financial products of conspicuous quality
 
 -----
 
-Selected Work in Progress
+Work in Progress
 -----
 "A Structural Model of Learning before Choice," with T. Tony Ke and J. Miguel Villas-Boas
 <!-- ![Optimal Search Strategy for Two Alternatives Solved by Deep Reinforcement Learning](/images/search-mdp.png) -->
-<img src="/images/search-mdp.png" alt="Optimal Search Policy" width="800"/>
+<img src="/images/search-mdp.png" alt="Optimal Search Policy" width="700"/>
 
 -----
 
-Selected Talks
+Talks
 -----
 2022: Uber Eats Pricing and Incentives Jam, Marketing Science Conference Doctoral Symposium, Marketing Analytics Symposium Sydney, Berkeley-Haas Shansby Marketing Seminar, UC Berkeley Finance Lunch
 
