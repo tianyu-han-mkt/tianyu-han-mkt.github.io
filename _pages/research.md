@@ -26,7 +26,7 @@ Work in Progress
 <details>
 <summary>Abstract</summary>
 <br>
-(Preliminary) Consumers usually sequentially gather information before purchase decisions. We consider a Bayesian decision-maker choosing two alternatives with uncertain payoffs where she decides the learning effort among the products as well as the optimal stopping time. We leverage a deep reinforcement learning algorithm, proximal policy optimization (PPO), to solve the Markov decision process and utilize the corresponding optimal control to estimate the structural parameters of a decision-maker. These processes are helpful for marketers to design and evaluate shopping platforms, advertising strategies, and so forth.
+(Preliminary) Consumers usually sequentially gather information before purchase decisions. We consider a Bayesian decision-maker choosing two alternatives with uncertain payoffs where she decides the learning effort among the products as well as the optimal stopping time. We leverage a deep reinforcement learning algorithm, proximal policy optimization (PPO), to solve the Markov decision process and utilize the corresponding optimal control to estimate the structural parameters of a decision-maker. These processes are helpful for marketers to design and evaluate shopping platforms and advertising strategies.
 <br>
 <img src="/images/search-mdp.png" alt="Optimal Search Policy" width="800"/>
 </details>
