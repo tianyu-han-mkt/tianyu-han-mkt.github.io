@@ -31,6 +31,8 @@ Work in Progress
 <img src="/images/search-mdp.png" alt="Optimal Search Policy" width="800"/>
 </details>
 
+ <br/>
+ 
 "Credit Card Rewards and Spending," with Xiao Yin
 <details>
 <summary>Abstract</summary>
