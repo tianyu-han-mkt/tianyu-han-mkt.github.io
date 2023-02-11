@@ -33,7 +33,7 @@ Work in Progress
 
  <br/>
  
-"Credit Card Rewards and Spending," with Xiao Yin
+"Credit Card Rewards," with Xiao Yin
 <details>
 <summary>Abstract</summary>
 <br>
