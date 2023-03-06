@@ -9,6 +9,15 @@ author_profile: true
 
 Working Papers
 -----
+"Rewards and Excess Spending in the Consumer Credit Market" (draft coming soon)
+<details>
+<summary>Abstract</summary>
+<br>
+(Preliminary) Many consumers use credit cards for perks and services. Combining consumer-level data, surveys, and a fuzzy regression discontinuity design, we identify the effect of reward availability on spending decisions. Platinum-card reward availability causes consumers to increase reward-earning spending by $62 for a reward value of $15; Non-reward-earning spending rises by $51 in the meantime, suggesting that different spending categories are complementary. Consumers also exhibit excess spending behavior: for a total spending increase of $113, an average consumer perceives an increase of $13. Suboptimal spending is partially caused by the ignorance of complemetarity between different spending categories.
+<br>
+<!-- <img src="/images/search-mdp.png" alt="Optimal Search Policy" width="800"/> -->
+</details>
+
 "Interest Rate Misperception and Excess Borrowing in the Consumer Credit Market," with Xiao Yin ([draft](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4256372))
 <details>
 <summary>Abstract</summary>
@@ -30,17 +39,10 @@ Work in Progress
 <br>
 <img src="/images/search-mdp.png" alt="Optimal Search Policy" width="800"/>
 </details>
-
  <br/>
- 
-"Credit Card Rewards," with Xiao Yin
-<details>
-<summary>Abstract</summary>
-<br>
-Coming soon.
-<br>
-<!-- <img src="/images/search-mdp.png" alt="Optimal Search Policy" width="800"/> -->
-</details>
+
+
+"Income Misreporting in the Consumption Credit Market," with Xiao Yin
 
 -----
 
