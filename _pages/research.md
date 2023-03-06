@@ -13,7 +13,7 @@ Working Papers
 <details>
 <summary>Abstract</summary>
 <br>
-(Preliminary) Many consumers use credit cards for perks and services. Combining consumer-level data, surveys, and a fuzzy regression discontinuity design, we identify the effect of reward availability on spending decisions. Platinum-card reward availability causes consumers to increase reward-earning spending by $62 for a reward value of $15; Non-reward-earning spending rises by $51 in the meantime, suggesting that different spending categories are complementary. Consumers also exhibit excess spending behavior: for a total spending increase of $113, an average consumer perceives an increase of $13. Suboptimal spending is partially caused by the ignorance of complemetarity between different spending categories.
+(Preliminary) Many consumers use credit cards for perks and services. Combining consumer-level data, surveys, and a fuzzy regression discontinuity design, I identify the effect of reward availability on spending decisions. Platinum-card reward availability causes consumers to increase reward-earning spending by $62 for a reward value of $15; Non-reward-earning spending rises by $51 in the meantime, suggesting that different spending categories are complementary. Consumers also exhibit excess spending behavior: for a total spending increase of $113, an average consumer perceives an increase of $13. Suboptimal spending is partially caused by the ignorance of complemetarity between different spending categories.
 <br>
 <!-- <img src="/images/search-mdp.png" alt="Optimal Search Policy" width="800"/> -->
 </details>
