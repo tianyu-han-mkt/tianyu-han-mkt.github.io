@@ -9,11 +9,11 @@ author_profile: true
 
 Working Papers
 -----
-"Rewards and Excess Spending in the Consumer Credit Market" (draft coming soon)
+"Rewards in the Consumer Credit Market" (draft coming soon)
 <details>
 <summary>Abstract</summary>
 <br>
-(Preliminary) Many consumers use credit cards for perks and services. Combining consumer-level data, surveys, and a fuzzy regression discontinuity design, I identify the effect of reward availability on spending and redemption. Platinum-card reward availability causes consumers to increase reward-earning spending by 64 US dollars for a reward value of 15 dollars. Non-reward-earning spending rises by 54 dollars in the meantime, suggesting that different spending categories are complementary. Ignorance of such complementarity results in excess spending: consumers think they could save 46 dollars from Platinum rewards and hence only foresee a spending increase of 17 out of the true 118 dollars.
+(Preliminary) Many consumers use credit cards for perks and services. Combining consumer-level data, surveys, and a fuzzy regression discontinuity design, I identify the effect of reward availability on spending and redemption. Platinum-card reward availability causes consumers to increase reward-earning spending by 64 US dollars for a reward value of 15 dollars. Non-reward-earning spending rises by 54 dollars in the meantime, suggesting a positive spillover effect of rewards on other spending categories. Unplanned spending sheds light on the spillover effect: consumers think they could save 46 dollars from Platinum rewards and hence only foresee a spending increase of 17 out of the true 118 dollars..
 <br>
 <img src="/images/reward-rd.png" alt="Reward Effect using Fuzzy RD" width="800"/>
 </details>
