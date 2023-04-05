@@ -47,10 +47,10 @@ Work in Progress
 
 -----
 
-Talks
+Talks (Including Scheduled)
 -----
-2023: UC Berkeley IO Lunch
+2023: UC Berkeley Finance Lunch, UC Berkeley IO Lunch, Behavioral Industrial Organization & Marketing Symposium (UMich)
 
-2022: Uber Eats Pricing and Incentives Jam, Marketing Science Conference Doctoral Symposium, Marketing Analytics Symposium Sydney, Berkeley-Haas Shansby Marketing Seminar, UC Berkeley Finance Lunch
+2022: Uber Eats Pricing and Incentives Jam, Marketing Science Conference Doctoral Symposium, Marketing Analytics Symposium Sydney (UNSW Sydney), Berkeley-Haas Shansby Marketing Seminar, UC Berkeley Finance Lunch
 
 2021: UC Berkeley IO Lunch, Berkeley-Haas Marketing Summer PhD Seminar
