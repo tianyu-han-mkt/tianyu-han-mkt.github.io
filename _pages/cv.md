@@ -39,6 +39,7 @@ Graduate Student Researcher for Prof. Giovanni Compiani, Berkeley-Haas, Feb 2019
 
 Selected Fellowship, Grants, and Awards
 -----
+* Claire Goedinghaus Fellowship, Institute for Business Innovation, University of California, Berkeley, Apr 2023
 * Wu Family Fellowship, Institute for Business Innovation, University of California, Berkeley, Feb 2022
 * Department Fellowship, Haas School of Business, University of California, Berkeley, 2018 – 2023
 * Graduate Academic Achievement Award, University of Wisconsin, Madison, May 2018
