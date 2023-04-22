@@ -9,7 +9,7 @@ author_profile: true
 
 Working Papers
 -----
-"Rewards in the Consumer Credit Market" (draft coming soon)
+"Rewards and Consumption in the Credit Card Market" (draft coming soon)
 <details>
 <summary>Abstract</summary>
 <br>
