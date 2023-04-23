@@ -1,6 +1,8 @@
 # Welcome to Jekyll!
 # 
-# bundle exec jekyll serve --livereload
+# bundle exec jekyll serve -l -P PORT
+# sudo lsof -i :4000
+# kill -9 <PID>
 # 
 # This config file is meant for settings that affect your entire site, values
 # which you are expected to set up once and rarely need to edit after that.
