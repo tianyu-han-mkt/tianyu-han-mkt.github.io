@@ -12,8 +12,8 @@ redirect_from:
 <!-- <embed src="/files/vita.pdf#toolbar=0" type="application/pdf" width="auto" height="400px" /> -->
 
 <!-- <embed src="https://username.github.io/files/cv.pdf#toolbar=0" type="application/pdf" width="600px" height="500px" /> -->
-<embed src="https://drive.google.com/viewerng/
-viewer?embedded=true&url=https://tianyu-han.com/files/vita.pdf" width="auto" height="400">
+<embed src="https://drive.google.com/viewerng/viewer?embedded=true&url=https://tianyu-han.com/files/vita.pdf" width="auto" height="400">
+<!-- <iframe src="http://docs.google.com/gview?url=https://tianyu-han.com/files/vita.pdf&embedded=true" style="width:790px; height:500px;" frameborder="0"></iframe> -->
 
 <!-- Education
 ------
