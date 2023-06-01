@@ -9,7 +9,7 @@ author_profile: true
 
 Working Papers
 -----
-"Rewards and Consumption in the Credit Card Market" (***job market paper***, draft coming soon)
+"Rewards and Consumption in the Credit Card Market" (***job market paper***, draft availble upon request)
 <details>
 <summary>Abstract</summary>
 <br>
@@ -23,7 +23,7 @@ Working Papers
 <details>
 <summary>Abstract</summary>
 <br>
-(Preliminary) Consumers usually sequentially gather information before purchase decisions. We consider a Bayesian decision-maker choosing two alternatives with uncertain payoffs where she decides the learning effort among the products as well as the optimal stopping time. We leverage a deep reinforcement learning algorithm, proximal policy optimization (PPO), to solve the Markov decision process and utilize the corresponding optimal control to estimate the structural parameters of a decision-maker. These processes are helpful for marketers to design and evaluate shopping platforms and advertising strategies.
+(Preliminary) Before making a choice, individuals gradually gather information on the different possible al- ternatives. Analysts may observe how long the individuals gather information on each alternative, when individuals switch from gathering information on one alternative to gathering information on another alternative, and when individuals make a final choice. We develop an empirical model on this choice process, endogenizing the choice of which alternative the individual obtains information from at each point, and estimate the model with data from eye-tracking experiments. The em- pirical analysis yields empirical estimates of the relative size of search costs, switching costs, and informativeness of search for information. We then study the counterfactual of having lower search costs and switching costs, estimating the effect of greater length of time to make a decision and greater number of attention switches across alternatives. The model also delivers that there is a positive correlation between attention to an alternative and likelihood of that alternative being cho- sen, through the individuals choosing to learn more about the alternatives for which the individuals have beliefs of a higher preference.
 <br>
 <img src="/images/search-mdp.png" alt="Optimal Search Policy" width="800"/>
 </details>
@@ -49,7 +49,7 @@ Work in Progress
 
 Talks (Including Scheduled)
 -----
-2023: UC Berkeley Financial Economics Seminar, UC Berkeley IO Workshop, Behavioral Industrial Organization & Marketing Symposium (UMich), Bay Area Marketing Symposium (Santa Clara)
+2023: UC Berkeley Financial Economics Seminar, UC Berkeley IO Workshop, Behavioral Industrial Organization & Marketing Symposium (UMich), Bay Area Marketing Symposium (Santa Clara), UC Berkeley Industrial Organization Seminar
 
 2022: Uber Eats Pricing and Incentives Jam, Marketing Science Conference Doctoral Symposium, Marketing Analytics Symposium Sydney (UNSW Sydney), Berkeley-Haas Shansby Marketing Seminar, UC Berkeley Financial Economics Seminar
 
