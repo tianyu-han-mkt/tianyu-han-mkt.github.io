@@ -13,7 +13,8 @@ redirect_from:
 
 <!-- <embed src="https://username.github.io/files/cv.pdf#toolbar=0" type="application/pdf" width="600px" height="500px" /> -->
 <!-- <embed src="https://drive.google.com/viewerng/viewer?embedded=true&url=https://tianyu-han.com/files/vita.pdf" width="auto" height="400"> -->
-<iframe src="http://docs.google.com/gview?url=https://tianyu-han.com/files/vita.pdf&embedded=true" style="width:790px; height:500px;" frameborder="0"></iframe>
+<!-- <iframe src="http://docs.google.com/gview?url=https://tianyu-han.com/files/vita.pdf&embedded=true" style="width:790px; height:500px;" frameborder="0"></iframe> -->
+<iframe src="https://drive.google.com/file/d/13LoPTzaauEDx-1oE84UsKNea8OngRQuT/preview" width="100%" height="600" allow="autoplay"></iframe>
 
 <!-- Education
 ------
