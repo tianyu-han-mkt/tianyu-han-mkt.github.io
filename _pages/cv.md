@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-<embed src="/files/vita.pdf#toolbar=0" type="application/pdf" width="400px" height="500px" />
+<embed src="/files/vita.pdf#toolbar=0" type="application/pdf" width="auto" height="auto" />
 
 <!-- Education
 ------
