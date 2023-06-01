@@ -9,9 +9,11 @@ redirect_from:
 
 {% include base_path %}
 
-<embed src="/files/vita.pdf" type="application/pdf" width="400px" height="500px" />
+<!-- <embed src="/files/vita.pdf#toolbar=0" type="application/pdf" width="auto" height="400px" /> -->
 
 <!-- <embed src="https://username.github.io/files/cv.pdf#toolbar=0" type="application/pdf" width="600px" height="500px" /> -->
+<embed src="https://drive.google.com/viewerng/
+viewer?embedded=true&url=https://tianyu-han.com/files/vita.pdf" width="auto" height="400">
 
 <!-- Education
 ------
