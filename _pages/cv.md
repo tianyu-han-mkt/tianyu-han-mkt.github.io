@@ -9,7 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
-<embed src="/files/vita.pdf#toolbar=0" type="application/pdf" width="auto" height="auto" />
+<embed src="/files/vita.pdf" type="application/pdf" width="400px" height="500px" />
+
+<!-- <embed src="https://username.github.io/files/cv.pdf#toolbar=0" type="application/pdf" width="600px" height="500px" /> -->
 
 <!-- Education
 ------
