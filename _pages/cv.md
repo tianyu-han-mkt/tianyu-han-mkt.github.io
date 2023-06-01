@@ -9,7 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+<embed src="/files/vita.pdf#toolbar=0" type="application/pdf" width="400px" height="500px" />
+
+<!-- Education
 ------
 **University of California, Berkeley**, Berkeley, CA, USA\
 Ph.D. in Business Administration (Quantitative Marketing), May 2024 (expected)\
@@ -44,4 +46,4 @@ Selected Fellowship, Grants, and Awards
 * Department Fellowship, Haas School of Business, University of California, Berkeley, 2018 – 2023
 * Graduate Academic Achievement Award, University of Wisconsin, Madison, May 2018
 * Economics Master Program’s Research Scholarship, University of Wisconsin, Madison, Feb 2017
-* National Scholarship, Ministry of Education of China, Nov 2012
+* National Scholarship, Ministry of Education of China, Nov 2012 -->
