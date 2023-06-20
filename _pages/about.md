@@ -11,7 +11,7 @@ redirect_from:
 
 Welcome!
 
-I am a PhD candidate in Quantitative Marketing at [Haas School of Business](https://haas.berkeley.edu/marketing/), [UC Berkeley](https://www.berkeley.edu/). I conduct research in industrial organization and behavioral economics using a combination of field experiments and surveys, causal inference for observational studies, structural modeling, and machine learning.
+I am a PhD candidate in Quantitative Marketing at the [Haas School of Business](https://haas.berkeley.edu/marketing/), [UC Berkeley](https://www.berkeley.edu/). I conduct research in industrial organization and behavioral economics using a combination of field experiments and surveys, causal inference for observational studies, structural modeling, and machine learning.
 
 My current research operates in two threads. I seek to understand how the marketing mix design of financial products interplays with consumer behavior in the consumer credit market. My work also leverages the power of machine learning and big data to develop scalable consumer decision-making models for predictions and policy evaluations.
 
