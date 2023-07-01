@@ -9,7 +9,7 @@ author_profile: true
 
 Working Papers
 -----
-"Rewards and Consumption in the Credit Card Market" (***job market paper***, draft availble upon request)
+"Rewards and Consumption in the Credit Card Market" (***job market paper***, [draft](https://ssrn.com/abstract=4497019))
 <details>
 <summary>Abstract</summary>
 <br>
@@ -19,7 +19,7 @@ Reward programs are often a prominent feature of credit cards. Collaborating wit
 </details>
 <br/>
 
-"A Structural Model of Learning before Choice," with T. Tony Ke and J. Miguel Villas-Boas (draft coming soon)
+"A Structural Model of Learning before Choice," with T. Tony Ke and J. Miguel Villas-Boas (draft available upon request)
 <details>
 <summary>Abstract</summary>
 <br>
