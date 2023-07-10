@@ -19,7 +19,7 @@ Reward programs are often a prominent feature of credit cards. Collaborating wit
 </details>
 <br/>
 
-"A Structural Model of Learning before Choice," with T. Tony Ke and J. Miguel Villas-Boas (draft available upon request)
+"An Empirical Model of Sequential Attention Allocation Before Choice," with T. Tony Ke and J. Miguel Villas-Boas (draft available upon request)
 <details>
 <summary>Abstract</summary>
 <br>
