@@ -58,7 +58,7 @@ Work in Progress
 
 Talks (Including Scheduled)
 -----
-2023: UC Berkeley Financial Economics Seminar, UC Berkeley IO Workshop, Behavioral Industrial Organization & Marketing Symposium (UMich), Bay Area Marketing Symposium (Santa Clara), UC Berkeley Industrial Organization Seminar
+2023: UC Berkeley Financial Economics Seminar, UC Berkeley IO Workshop, Behavioral Industrial Organization & Marketing Symposium (UMich), Bay Area Marketing Symposium (Santa Clara), UC Berkeley Industrial Organization Seminar, CEPR European Conference on Household Finance
 
 2022: Uber Eats Pricing and Incentives Jam, Marketing Analytics Symposium Sydney (UNSW Sydney), Berkeley-Haas Shansby Marketing Seminar, UC Berkeley Financial Economics Seminar
 
