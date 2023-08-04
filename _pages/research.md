@@ -43,7 +43,7 @@ Credit cards are usually advertised as financial products of conspicuous quality
 Work in Progress
 -----
 
-"Income Misreporting in the Consumption Credit Market," with Xiao Yin
+"Income Misreporting in the Consumption Credit Market," with Xiao Yin (Slides available upon request)
 <details>
 <summary>Abstract</summary>
 <br>
