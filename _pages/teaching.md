@@ -11,6 +11,7 @@ Teaching interests: marketing strategy/management, business analytics, data scie
 
 University of California, Berkeley
 -----
+* Strategy (full-time MBA): Spring 2024
 * Marketing Strategy (full-time MBA): Fall 2023
 * Intermediate Microeconomics for Business (upper-undergraduate, [sample syllabus](/files/ugba101a_sample_syllabus.pdf), [sample slide deck](/files/ugba101a_sample_slides.pdf)): Spring 2023 (eval:[^1] 6.41/7), Spring 2022 (eval: 6.59/7, [report](/files/ugba101a_eval.pdf)), Fall 2021 (eval: 6.5/7), Summer 2021
 * Marketing (upper-undergraduate, [sample slide deck](/files/ugba106_sample_slides.pdf)): Fall 2022, Spring 2021

@@ -58,8 +58,8 @@ Work in Progress
 
 Talks (Including Scheduled)
 -----
-2023: CEPR European Conference on Household Finance, Behavioral Industrial Organization & Marketing Symposium (Michigan Ross), Bay Area Marketing Symposium (Santa Clara), Berkeley-Haas Shansby Marketing Seminar, UC Berkeley Industrial Organization Seminar, UC Berkeley Financial Economics Seminar, UC Berkeley Psychology & Economics Lunch, UC Berkeley IO Workshop
+2023: Chicago, Boston U, UT Dallas, NUS, HKUST, Peking U (Guanghua), CUHK-Shenzhen, CEPR European Conference on Household Finance, Behavioral Industrial Organization & Marketing Symposium (Michigan Ross), Bay Area Marketing Symposium (Santa Clara), Berkeley (Marketing), Berkeley (Econ-IO), Berkeley (Finance)
 
-2022: Uber Eats Pricing and Incentives Jam, Marketing Analytics Symposium Sydney (UNSW), Berkeley-Haas Shansby Marketing Seminar, UC Berkeley Financial Economics Seminar
+2022: Uber, Marketing Analytics Symposium Sydney (UNSW), Berkeley, Berkeley (Finance)
 
-2021: UC Berkeley IO Workshop, Berkeley-Haas Marketing Summer PhD Seminar
+2021: Berkeley (Marketing), Berkeley (Finance), Berkeley (Econ-IO)
