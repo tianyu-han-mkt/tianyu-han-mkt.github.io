@@ -13,11 +13,7 @@ Welcome!
 
 I am a PhD candidate in Quantitative Marketing at the [Haas School of Business](https://haas.berkeley.edu/marketing/), [UC Berkeley](https://www.berkeley.edu/). I conduct research in behavioral economics and industrial organization using a combination of field experiments and surveys, causal inference for observational studies, structural modeling, and machine learning.
 
-My current research seeks to understand the role of beliefs at the intersection of product design and consumer behavior. Taking a step further, I investigate how firms respond to those (mis)beliefs and whether they incorporate naivete exploitation into contract design. My work also leverages the power of machine learning and big data to develop empirical models of consumer decision-making processes for predictions and policy evaluations.
-
-In my job market paper, I study the effect of credit card rewards on consumers' spending patterns and their subjective expectations. My results show that consumers have rational expectations of reward-related spending. However, when initiating reward-earning purchases upfront, they often overlook their future demand for complementary products in categories where no rewards are earned. This largely explains the effect of rewards on consumption increase. I use a calibrated model to show that consumer misperceptions incentivize banks to offer more generous rewards, which ultimately diminishes market efficiency and leads to a cross-subsidy from less to more sophisticated consumers.
-
-My references are [J. Miguel Villas-Boas](https://haas.berkeley.edu/faculty/villasboas-miguel/) (co-chair), [Dmitry Taubinsky](https://www.econ.berkeley.edu/profile/1115120) (co-chair), [Benjamin Handel](https://www.econ.berkeley.edu/profile/ben-handel), and [Todd Fitch](https://haas.berkeley.edu/faculty/fitch-todd/) (teaching).
+My current research seeks to understand the role of beliefs at the intersection of product design and consumer behavior, and how firms incorporate those beliefs into marketing strategies. My work also leverages the power of machine learning and big data to develop empirical models of consumer decision-making processes for predictions and policy evaluations.
 
 Email: ![email](/images/email.png)
 
