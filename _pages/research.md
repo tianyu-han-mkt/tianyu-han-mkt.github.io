@@ -9,7 +9,7 @@ author_profile: true
 
 Working Papers
 -----
-"Rewards and Consumption in the Credit Card Market" (***job market paper***, [draft](https://ssrn.com/abstract=4497019))
+"Rewards and Consumption in the Credit Card Market" ([draft](https://ssrn.com/abstract=4497019))
 <details>
 <summary>Abstract</summary>
 <br>
