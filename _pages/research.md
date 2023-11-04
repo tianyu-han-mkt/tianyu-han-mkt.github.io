@@ -29,11 +29,11 @@ Before making a choice, individuals gradually gather information on the differen
 </details>
 <br/>
 
-"Interest Rate Misperception and Excess Borrowing in the Consumer Credit Market," with Xiao Yin ([draft](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4256372))
+"Interest Rate Misperception in the Credit Card Market," with Xiao Yin ([draft](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4256372), new version coming soon!)
 <details>
 <summary>Abstract</summary>
 <br>
-Credit cards are usually advertised as financial products of conspicuous quality but with shrouded borrowing costs. We elicit consumer perceptions about the interest rate associated with credit-card borrowing. Combining bank account data and surveys, we find that consumers have very noisy perceptions about the true interest costs associated with credit card debt. Total borrowing decreases with perceived interest rates only for those with negative perception errors. Using an information treatment that informs the true costs of credit-card borrowing, we find that every percentage point decrease in the perceived rate increases borrowing by 143.1 US dollars.
+We elicit consumer perceptions of the interest rate associated with credit card borrowing. Combining bank account data and surveys, we find that consumers have very noisy perceptions about the true interest costs associated with credit card debt. Total borrowing decreases with perceived interest rates only for those with negative perception errors. Using an information treatment that informs the true costs of credit card borrowing, we find that every percentage point decrease in the perceived rate increases borrowing by 927 CNY. However, the effect of the information treatment decreased by nearly 50\% six months after treatment. We use the bank app login data to show that the persistence of misperception in the long run can be explained by the ostrich effect where consumers selectively pay attention to information where interest rates are low.
 <br>
 <img src="/images/debt-bias.png" alt="Interest Rate Misperception and Debt" width="400"/>
 <img src="/images/pr_revision.png" alt="Perceived Interest Rate Revision" width="400"/>
