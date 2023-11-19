@@ -33,7 +33,7 @@ Before making a choice, individuals gradually gather information on the differen
 <details>
 <summary>Abstract</summary>
 <br>
-We elicit consumer perceptions of the interest rate associated with credit card borrowing. Combining bank account data and surveys, we find that consumers have very noisy perceptions about the true interest costs associated with credit card debt. Total borrowing decreases with perceived interest rates only for those with negative perception errors. Using an information treatment that informs the true costs of credit card borrowing, we find that every percentage point decrease in the perceived rate increases borrowing by 927 CNY. However, the effect of the information treatment decreased by nearly 50\% six months after treatment. We use the bank app login data to show that the persistence of misperception in the long run can be explained by the ostrich effect where consumers selectively pay attention to information where interest rates are low.
+We study whether consumers understand the interest rates of credit card borrowing, the reasons, and policy implications for misperceptions. Combining bank account data and surveys, we find that consumers have noisy perceptions of the true costs of credit card debt, among which only negative perception errors are positively correlated with borrowing. Undergoing an information treatment that informs the true costs of credit card borrowing, consumers with underestimations upwardly revised their perceived interest rates and decreased debts. Despite a huge instantaneous response, the effect of the information treatment shrank by nearly half six months post-treatment. To explain the short-living effects, we use consumers' banking app login behavior to show that the reversal of misperception is consistent with the ostrich effect where consumers selectively avoid unfavorable information when interest rates are high.
 <br>
 <img src="/images/debt-bias.png" alt="Interest Rate Misperception and Debt" width="400"/>
 <img src="/images/pr_revision.png" alt="Perceived Interest Rate Revision" width="400"/>
@@ -43,7 +43,7 @@ We elicit consumer perceptions of the interest rate associated with credit card 
 Work in Progress
 -----
 
-"Income Misreporting in the Consumption Credit Market," with Xiao Yin (slides available upon request)
+"Income Misreporting in the Consumption Credit Market," with Xiao Yin (draft coming soon)
 <details>
 <summary>Abstract</summary>
 <br>
