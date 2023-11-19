@@ -29,7 +29,7 @@ Before making a choice, individuals gradually gather information on the differen
 </details>
 <br/>
 
-"Interest Rate Misperception in the Credit Card Market," with Xiao Yin ([draft](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4256372), new version coming soon!)
+"Interest Rate Misperception in the Credit Card Market," with Xiao Yin ([draft](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4256372), new version!)
 <details>
 <summary>Abstract</summary>
 <br>
