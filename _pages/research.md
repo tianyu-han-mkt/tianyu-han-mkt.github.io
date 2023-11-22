@@ -43,7 +43,7 @@ Combining bank account data and surveys, we find that consumers have noisy perce
 Work in Progress
 -----
 
-"Income Misreporting in the Consumption Credit Market," with Xiao Yin (draft coming soon)
+"Income Misreporting in the Credit Card Market," with Xiao Yin (draft coming soon)
 <details>
 <summary>Abstract</summary>
 <br>
@@ -54,7 +54,7 @@ Work in Progress
 <br/>
 
 
------
+<!-- -----
 
 Talks (Including Scheduled)
 -----
@@ -62,4 +62,4 @@ Talks (Including Scheduled)
 
 2022: Uber, Marketing Analytics Symposium Sydney (UNSW), Berkeley (Marketing), Berkeley (Finance)
 
-2021: Berkeley (Marketing), Berkeley (Finance), Berkeley (Econ-IO)
+2021: Berkeley (Marketing), Berkeley (Finance), Berkeley (Econ-IO) -->
