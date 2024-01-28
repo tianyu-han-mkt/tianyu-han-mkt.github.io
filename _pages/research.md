@@ -31,7 +31,7 @@ The model also delivers that there is a positive correlation between attention t
 </details>
 <br/>
 
-"Interest Rate Misperception in the Credit Card Market," with Xiao Yin ([draft](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4256372), new version!)
+"Interest Rate Misperception in the Credit Card Market," with Xiao Yin ([draft](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4256372))
 <details>
 <summary>Abstract</summary>
 <br>
