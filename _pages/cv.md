@@ -15,7 +15,8 @@ redirect_from:
 <!-- <embed src="https://drive.google.com/viewerng/viewer?embedded=true&url=https://tianyu-han.com/files/vita.pdf" width="auto" height="400"> -->
 <!-- <iframe src="http://docs.google.com/gview?url=https://tianyu-han.com/files/vita.pdf&embedded=true" style="width:790px; height:500px;" frameborder="0"></iframe> -->
 <!-- <iframe src="https://drive.google.com/file/d/1aicB98E6aoQ3HEa_3wtQpNTO9OLhBKdl/preview" width="100%" height="600" allow="autoplay"></iframe> -->
-<iframe src="/files/vita.pdf#toolbar=0" width="100%" height="600" allow="autoplay"></iframe>
+<iframe src="/files/vita.pdf" width="100%" height="600" allow="autoplay"></iframe>
+
 <!-- Education
 ------
 **University of California, Berkeley**, Berkeley, CA, USA\
