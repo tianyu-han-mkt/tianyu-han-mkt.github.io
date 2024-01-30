@@ -52,14 +52,3 @@ Work in Progress
 <img src="/images/income.png" alt="Event Study" width="400"/>
 </details>
 <br/>
-
-
-<!-- -----
-
-Talks (Including Scheduled)
------
-2023: Chicago, Boston U, UT Dallas, NUS, HKUST, Peking U (Guanghua), CUHK-Shenzhen, CEPR European Conference on Household Finance, Behavioral Industrial Organization & Marketing Symposium (Michigan Ross), Bay Area Marketing Symposium (Santa Clara), Berkeley (Marketing), Berkeley (Econ-IO), Berkeley (Finance)
-
-2022: Uber, Marketing Analytics Symposium Sydney (UNSW), Berkeley (Marketing), Berkeley (Finance)
-
-2021: Berkeley (Marketing), Berkeley (Finance), Berkeley (Econ-IO) -->

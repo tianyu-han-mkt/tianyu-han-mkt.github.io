@@ -7,8 +7,6 @@ author_profile: true
 
 {% include base_path %}
 
-<!-- Teaching interests: marketing strategy/management, business analytics, data science, machine/deep learning, microeconomic theory, behavioral economics, industrial organization, applied econometrics/statistics, empirical modeling -->
-
 University of California, Berkeley
 -----
 * Strategy (full-time MBA): Spring 2024
