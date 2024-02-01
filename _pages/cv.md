@@ -16,7 +16,7 @@ redirect_from:
 
 <!-- <iframe src="/files/vita.pdf#toolbar=0" width="100%" height="600" allow="autoplay"></iframe> -->
 
-<iframe src="https://docs.google.com/viewer?url=https://tianyu-han.com/files/vita.pdf&embedded=true" width="100%" height="100%" allow="autoplay"></iframe>
+<iframe src="https://docs.google.com/viewer?url=https://tianyu-han.com/files/vita.pdf&embedded=true" width="100%" height="600px" allow="autoplay"></iframe>
 
 <!-- <iframe src="https://drive.google.com/file/d/1aicB98E6aoQ3HEa_3wtQpNTO9OLhBKdl/preview" width="100%" height="600" allow="autoplay"></iframe> -->
 
