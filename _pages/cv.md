@@ -20,7 +20,7 @@ redirect_from:
 
 <!-- <iframe src="https://drive.google.com/file/d/1aicB98E6aoQ3HEa_3wtQpNTO9OLhBKdl/preview" width="100%" height="600" allow="autoplay"></iframe> -->
 
-<object data="/files/vita.pdf#toolbar=0" type="application/pdf" width="100%" height="100">
+<object data="/files/vita.pdf#toolbar=0" type="application/pdf" width="100%" height="141">
     <!-- <embed src="https://docs.google.com/gview?url=https://tianyu-han.com/files/vita.pdf&embedded=true" width="100%" height="60%"/>  -->
     <p>If the embedded PDF below doesn't show, you can download my CV <a href="/files/vita.pdf">here</a>.</p>
 </object>
