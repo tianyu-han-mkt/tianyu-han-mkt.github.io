@@ -17,7 +17,8 @@ My current research seeks to understand the role of beliefs at the intersection 
 
 I will be joining [HKUST](https://mark.hkust.edu.hk/) as an Assistant Professor of Marketing in Summer 2024.
 
-Email: ![email](/images/email.png)
+Email: <img src="/images/email.png" alt="Email" width="200"/>
+<!-- ![email](/images/email.png) -->
 
 
 
