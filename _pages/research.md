@@ -1,9 +1,8 @@
-<!-- ---
+---
 layout: splash
 title: "Research"
 permalink: /research/
-author_profile: false
-sitemap: false
+author_profile: true
 ---
 
 {% include base_path %}
@@ -52,4 +51,4 @@ Work in Progress
 <br>
 <img src="/images/income.png" alt="Event Study" width="400"/>
 </details>
-<br/> -->
+<br/>
