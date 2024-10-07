@@ -3,6 +3,7 @@ layout: splash
 title: "Research"
 permalink: /research/
 author_profile: false
+sitemap: false
 ---
 
 {% include base_path %}
