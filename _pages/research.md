@@ -1,4 +1,4 @@
----
+<!-- ---
 layout: splash
 title: "Research"
 permalink: /research/
@@ -52,4 +52,4 @@ Work in Progress
 <br>
 <img src="/images/income.png" alt="Event Study" width="400"/>
 </details>
-<br/>
+<br/> -->
