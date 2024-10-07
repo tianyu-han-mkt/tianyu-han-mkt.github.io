@@ -11,7 +11,7 @@ redirect_from:
 
 Welcome!
 
-I am an Assistant Professor of Marketing at [HKUST Business School](https://mark.hkust.edu.hk/). I obtained my PhD from UC Berkeley. My research studies behavioral economics and marketing using a combination of field experiments and surveys, causal inference for observational studies, structural modeling, and machine learning. 
+I am an Assistant Professor of [Marketing](https://mark.hkust.edu.hk/) at The Hong Kong University of Science and Technology. I obtained my PhD from UC Berkeley. My research studies behavioral economics and marketing using a combination of field experiments and surveys, causal inference for observational studies, structural modeling, and machine learning. 
 
 Email: <img src="/images/email.png" alt="Email" width="160"/>
 <!-- ![email](/images/email.png) -->
