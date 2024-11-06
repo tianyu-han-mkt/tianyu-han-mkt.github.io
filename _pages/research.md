@@ -29,11 +29,11 @@ Before making a choice, individuals can gradually gather information on multiple
 </details>
 <br/>
 
-"Interest Rate Misperception in the Credit Card Market," with Xiao Yin ([draft](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4256372) new as of March 2024!)
+"Interest Rate Misperception in the Credit Card Market," with Xiao Yin ([draft](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4256372) new as of November 2024!)
 <details>
 <summary>Abstract</summary>
 <br>
-We investigate the extent to which consumers misperceive the interest costs associated with credit card debt using a combination of administrative data and surveys. Through a randomized controlled trial with an information treatment, our results show that consumers are imperfectly informed about the interest cost of unsecured debt, and the resulting misperception induces excess debt-taking by 26\%, mainly originating from spending on luxury goods. To understand the formation of interest rate misperception, we uncover selective information acquisition to be a potential channel. We demonstrate that consumers tend to actively seek information about their borrowing status when they expect creditworthiness to be high, and they disproportionately pay more attention to favorable information when interest rates are low. 
+This paper investigates consumer misperceptions of credit card debt interest costs through a combination of administrative data, surveys, and randomized controlled trials. Our findings indicate that consumers possess imperfect knowledge about the interest costs of unsecured debt, resulting in large debt accumulation. Rather than being driven by liquidity constraints, this over-borrowing appears to be a mistake mainly from spending on luxury goods. A simple text alert informing debt-takers of the true interest costs on their credit cards reduces credit card debt by over 10%.
 <br>
 <img src="/images/debt-bias.png" alt="Interest Rate Misperception and Debt" width="400"/>
 <img src="/images/pr_revision.png" alt="Perceived Interest Rate Revision" width="400"/>
