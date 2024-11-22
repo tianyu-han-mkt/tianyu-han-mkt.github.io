@@ -9,7 +9,17 @@ author_profile: true
 
 Working Papers
 -----
-"Rewards and Consumption in the Credit Card Market" ([draft](https://ssrn.com/abstract=4497019))
+"Interest Rate Misperception in the Credit Card Market," with Xiao Yin, November 2024 ([draft](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4256372))
+<details>
+<summary>Abstract</summary>
+<br>
+This paper investigates consumer misperceptions of credit card debt interest costs through a combination of administrative data, surveys, and randomized controlled trials. Our findings indicate that consumers possess imperfect knowledge about the interest costs of unsecured debt, resulting in large debt accumulation. Rather than being driven by liquidity constraints, this over-borrowing appears to be a mistake mainly caused by spending on luxury goods. A simple text alert informing debt-takers of the true interest costs on their credit cards reduces credit card debt by over 10%.
+<br>
+<img src="/images/debt-bias.png" alt="Interest Rate Misperception and Debt" width="400"/>
+<img src="/images/pr_revision.png" alt="Perceived Interest Rate Revision" width="400"/>
+</details>
+
+"Rewards and Consumption in the Credit Card Market," March 2024 ([draft](https://ssrn.com/abstract=4497019))
 <details>
 <summary>Abstract</summary>
 <br>
@@ -19,7 +29,7 @@ Reward programs are often a prominent feature of credit cards. Collaborating wit
 </details>
 <br/>
 
-"An Empirical Model of Endogenous Attention," with T. Tony Ke and J. Miguel Villas-Boas (draft available upon request)
+"An Empirical Model of Endogenous Attention," with T. Tony Ke and J. Miguel Villas-Boas, March 2024 (draft available upon request)
 <details>
 <summary>Abstract</summary>
 <br>
@@ -29,21 +39,13 @@ Before making a choice, individuals can gradually gather information on multiple
 </details>
 <br/>
 
-"Interest Rate Misperception in the Credit Card Market," with Xiao Yin ([draft](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4256372) new as of November 2024!)
-<details>
-<summary>Abstract</summary>
-<br>
-This paper investigates consumer misperceptions of credit card debt interest costs through a combination of administrative data, surveys, and randomized controlled trials. Our findings indicate that consumers possess imperfect knowledge about the interest costs of unsecured debt, resulting in large debt accumulation. Rather than being driven by liquidity constraints, this over-borrowing appears to be a mistake mainly from spending on luxury goods. A simple text alert informing debt-takers of the true interest costs on their credit cards reduces credit card debt by over 10%.
-<br>
-<img src="/images/debt-bias.png" alt="Interest Rate Misperception and Debt" width="400"/>
-<img src="/images/pr_revision.png" alt="Perceived Interest Rate Revision" width="400"/>
-</details>
+
 -----
 
 Work in Progress
 -----
 
-"Income Misreporting in the Credit Card Market," with Xiao Yin (draft coming soon)
+"Income Misreporting in the Credit Card Market," with Xiao Yin
 <details>
 <summary>Abstract</summary>
 <br>
