@@ -18,7 +18,7 @@ This paper investigates consumer misperceptions of credit card debt interest cos
 <img src="/images/debt-bias.png" alt="Interest Rate Misperception and Debt" width="400"/>
 <img src="/images/pr_revision.png" alt="Perceived Interest Rate Revision" width="400"/>
 </details>
-
+<br/>  
 
 "Rewards and Consumption in the Credit Card Market," March 2024 ([draft](https://ssrn.com/abstract=4497019))
 <details>
@@ -30,7 +30,6 @@ Reward programs are often a prominent feature of credit cards. Collaborating wit
 </details>
 <br/>
 
-
 "An Empirical Model of Endogenous Attention," with T. Tony Ke and J. Miguel Villas-Boas, March 2024 (draft available upon request)
 <details>
 <summary>Abstract</summary>
@@ -40,7 +39,6 @@ Before making a choice, individuals can gradually gather information on multiple
 <img src="/images/search-mdp.png" alt="Optimal Search Policy" width="800"/>
 </details>
 <br/>
-
 
 -----
 
