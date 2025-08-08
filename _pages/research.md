@@ -9,11 +9,11 @@ author_profile: true
 
 Working Papers
 -----
-"Interest Rate Misperception in the Credit Card Market," with Xiao Yin, November 2024 ([draft](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4256372))
+"Cost Misperception: The Impact of Misunderstanding Credit Card Debt Expenses," May 2025, *Major Revision at Management Science* ([draft](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4256372))
 <details>
 <summary>Abstract</summary>
 <br>
-This paper investigates consumer misperceptions of credit card debt interest costs through a combination of administrative data, surveys, and randomized controlled trials. Our findings indicate that consumers possess imperfect knowledge about the interest costs of unsecured debt, resulting in large debt accumulation. Rather than being driven by liquidity constraints, this over-borrowing appears to be a mistake mainly caused by spending on luxury goods. A simple text alert informing debt-takers of the true interest costs on their credit cards reduces credit card debt by over 10%.
+This paper investigates consumer misperceptions of credit card debt interest costs using administrative data, surveys, and randomized controlled trials. Our findings indicate that borrowers exhibit inaccurate perceptions of the interest costs of unsecured debt, resulting in substantial debt accumulation. A one percentage point lower perceived interest rate leads to 5% higher credit card debt relative to the pre-treatment average. These misperceptions are likely to stem from mistakes driven by financial literacy, particularly in luxury spending decisions, rather than imperfect knowledge of current debt levels or liquidity constraints.
 <br>
 <img src="/images/debt-bias.png" alt="Interest Rate Misperception and Debt" width="400"/>
 <img src="/images/pr_revision.png" alt="Perceived Interest Rate Revision" width="400"/>
@@ -30,7 +30,7 @@ Reward programs are often a prominent feature of credit cards. Collaborating wit
 </details>
 <br/>
 
-"An Empirical Model of Endogenous Attention," with T. Tony Ke and J. Miguel Villas-Boas, March 2024 (draft available upon request)
+"An Empirical Model of Endogenous Attention," with T. Tony Ke and J. Miguel Villas-Boas, July 2025 (draft available upon request)
 <details>
 <summary>Abstract</summary>
 <br>
