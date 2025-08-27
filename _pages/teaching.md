@@ -9,8 +9,8 @@ author_profile: true
 
 The Hong Kong University of Science and Technology
 -----
-* Marketing Management (Undergraduate Core): Spring 2025
-* Current Topics in Consumer Research (Doctoral): Fall 2024
+* Marketing Management (Undergraduate Core): Spring 2025, Fall 2025
+* Current Topics in Consumer Research (Doctoral): Fall 2024, Fall 2025
 
 University of California, Berkeley
 -----
