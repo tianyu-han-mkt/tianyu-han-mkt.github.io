@@ -30,7 +30,7 @@ Using proprietary data, a survey, and an experiment with a major bank in China, 
 </details>
 <br/>
 
-"An Empirical Model of Endogenous Attention," with T. Tony Ke and J. Miguel Villas-Boas, September 2025 ([draft] (https://papers.ssrn.com/abstract=5455794))
+"An Empirical Model of Endogenous Attention," with T. Tony Ke and J. Miguel Villas-Boas, September 2025 ([draft](https://papers.ssrn.com/abstract=5455794))
 <details>
 <summary>Abstract</summary>
 <br>
