@@ -9,6 +9,16 @@ author_profile: true
 
 Working Papers
 -----
+"Rewards and Misperceived Spending: Experimental Evidence from Credit Cards," January 2026, *Major Revision at Marketing Science* ([draft](https://ssrn.com/abstract=4497019))
+<details>
+<summary>Abstract</summary>
+<br>
+Using proprietary data, a survey, and an experiment with a major bank in China, this paper studies how credit card rewards affect perceived and actual consumer spending. A larger reward variety increases spending in both rewarded and unrewarded categories. While consumers accurately predict rewarded spending, they tend to underestimate total spending. A potential channel is that consumers overlook follow-on purchases that are complementary to the initial rewarded purchases. This misperception distorts consumption and incentivizes firms to offer excessive rewards, generating cross-subsidies from naive to sophisticated consumers.
+<br>
+<img src="/images/reward-rd.png" alt="Reward Effect using Fuzzy RD" width="800"/>
+</details>
+<br/>
+
 "Cost Misperception: The Impact of Misunderstanding Credit Card Debt Expenses," June 2025, *Major Revision at Management Science* ([draft](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4256372))
 <details>
 <summary>Abstract</summary>
@@ -19,16 +29,6 @@ This paper investigates consumer misperceptions of credit card debt interest cos
 <img src="/images/pr_revision.png" alt="Perceived Interest Rate Revision" width="400"/>
 </details>
 <br/>  
-
-"Rewards and Misperceived Spending: Experimental Evidence from Credit Cards," May 2025 ([draft](https://ssrn.com/abstract=4497019))
-<details>
-<summary>Abstract</summary>
-<br>
-Using proprietary data, a survey, and an experiment with a major bank in China, this paper studies how credit card rewards affect perceived and actual consumer spending. A larger reward variety increases spending in both rewarded and unrewarded categories. While consumers accurately predict rewarded spending, they tend to underestimate total spending. A potential channel is that consumers overlook follow-on purchases that are complementary to the initial rewarded purchases. This misperception distorts consumption and incentivizes firms to offer excessive rewards, generating cross-subsidies from naive to sophisticated consumers.
-<br>
-<img src="/images/reward-rd.png" alt="Reward Effect using Fuzzy RD" width="800"/>
-</details>
-<br/>
 
 "An Empirical Model of Endogenous Attention," with T. Tony Ke and J. Miguel Villas-Boas, September 2025 ([draft](https://papers.ssrn.com/abstract=5455794))
 <details>
@@ -52,5 +52,15 @@ Work in Progress
 (Preliminary) In the process of acquiring credit cards, consumers often self-report their income levels, a practice that tends to be prone to unverified overstatements. We empirically investigate into the existence of such income misrepresentation and assess whether financial institutions take this potential exaggeration into account. Collaborating with a leading commercial bank in China, we survey consumers on their income growth rates. By utilizing these reported growth rates and current incomes, we infer the consumers' actual income at the time of their credit card application. Our findings indicate a significant degree of income over-reporting among consumers, with an average exaggeration of approximately 30%. Further, we employ a quasi-experimental approach to determine the causal effect of this income misreporting on the allocation of credit limits. Our results suggest that the bank does, in fact, take into account such misreporting behaviors: income exaggerated by 10% decreases credit limit by around 100 US dollars. This study provides insights into consumer behaviors in credit card applications and the corresponding response of financial institutions.
 <br>
 <img src="/images/income.png" alt="Event Study" width="400"/>
+</details>
+<br/>
+
+"Information Silos on Social Media," with Wenbo Wang and Zijun (June) Shi
+<details>
+<summary>Abstract</summary>
+<br>
+(Preliminary) Social media platforms often confine users to information silos, creating narrow loops of reinforced interests that limit exposure to diverse perspectives and exacerbate societal divisions. This study introduces a metric to systematically quantify this phenomenon through two dimensions: intrapersonal variety, reflecting the breadth of individual topic engagement, and interpersonal difference, capturing the divergence of user consumption from population norms. Focusing on TikTok, we combine demographic surveys with a field experiment wherein participants record their browsing behavior. We analyze video topics to compute this information silo index, identify silo formation patterns, and correlate them with user characteristics. Furthermore, we test experimental interventions by providing users with tailored feedback on their content consumption habits. Our results demonstrate the intensity of information silos, assess user awareness, and establish the efficacy of feedback mechanisms in disrupting these patterns to foster broader content engagement.
+<br>
+<!-- <img src="/images/income.png" alt="Event Study" width="400"/> -->
 </details>
 <br/>
