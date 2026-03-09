@@ -11,7 +11,7 @@ redirect_from:
 
 Welcome!
 
-I am an Assistant Professor of Marketing at [The Hong Kong University of Science and Technology](https://mark.hkust.edu.hk/). I obtained my PhD from UC Berkeley. My research focuses on behavioral economics, household finance, and digital marketing using a combination of field experiments and surveys, causal inference for observational studies, structural modeling, and machine learning. 
+I am an Assistant Professor of Marketing at [The Hong Kong University of Science and Technology (HKUST)](https://mark.hkust.edu.hk/). I obtained my PhD from UC Berkeley. My research focuses on behavioral economics, household finance, and digital marketing using a combination of field experiments and surveys, causal inference for observational studies, structural modeling, and machine learning. 
 
 **Research Assistant Recruitment**\
 Part-time research assistant (RA) positions are available on a sporadic basis, depending on project needs. I am seeking candidates with a strong interest and understanding in applied microeconometric analysis, structural modeling, machine learning, or other AI applications in behavioral economics, household finance, social media, or other relevant topics in quantitative marketing. Interested applicants are welcome to email their CV, transcripts, and other materials. Shortlisted candidates will be invited to complete a coding test and participate in a brief Zoom interview.
