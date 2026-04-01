@@ -9,17 +9,7 @@ author_profile: true
 
 Working Papers
 -----
-"Rewards and Misperceived Spending: Experimental Evidence from Credit Cards," January 2026, *Major Revision at Marketing Science* ([draft](https://ssrn.com/abstract=4497019))
-<details>
-<summary>Abstract</summary>
-<br>
-Using proprietary data, a survey, and an experiment with a major bank in China, this paper studies how credit card rewards affect perceived and actual consumer spending. A larger reward variety increases spending in both rewarded and unrewarded categories. While consumers accurately predict rewarded spending, they tend to underestimate total spending. A potential channel is that consumers overlook follow-on purchases that are complementary to the initial rewarded purchases. This misperception distorts consumption and incentivizes firms to offer excessive rewards, generating cross-subsidies from naive to sophisticated consumers.
-<br>
-<img src="/images/reward-rd.png" alt="Reward Effect using Fuzzy RD" width="800"/>
-</details>
-<br/>
-
-"Cost Misperception: The Impact of Misunderstanding Credit Card Debt Expenses," June 2025, *Major Revision at Management Science* ([draft](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4256372))
+"Cost Misperception: The Impact of Misunderstanding Credit Card Debt Expenses," April 2026, *Major Revision at Management Science* ([draft](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4256372))
 <details>
 <summary>Abstract</summary>
 <br>
@@ -29,6 +19,16 @@ This paper investigates consumer misperceptions of credit card debt interest cos
 <img src="/images/pr_revision.png" alt="Perceived Interest Rate Revision" width="400"/>
 </details>
 <br/>  
+
+"Rewards and Misperceived Spending: Experimental Evidence from Credit Cards," January 2026, *Major Revision at Marketing Science* ([draft](https://ssrn.com/abstract=4497019))
+<details>
+<summary>Abstract</summary>
+<br>
+Using proprietary data, a survey, and an experiment with a major bank in China, this paper studies how credit card rewards affect perceived and actual consumer spending. A larger reward variety increases spending in both rewarded and unrewarded categories. While consumers accurately predict rewarded spending, they tend to underestimate total spending. A potential channel is that consumers overlook follow-on purchases that are complementary to the initial rewarded purchases. This misperception distorts consumption and incentivizes firms to offer excessive rewards, generating cross-subsidies from naive to sophisticated consumers.
+<br>
+<img src="/images/reward-rd.png" alt="Reward Effect using Fuzzy RD" width="800"/>
+</details>
+<br/>
 
 "An Empirical Model of Endogenous Attention," with T. Tony Ke and J. Miguel Villas-Boas, September 2025 ([draft](https://papers.ssrn.com/abstract=5455794))
 <details>
