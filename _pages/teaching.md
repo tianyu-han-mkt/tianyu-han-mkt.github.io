@@ -29,3 +29,9 @@ University of Wisconsin, Madison
 * Energy, Resources, and Economics (intermediate-undergraduate), Spring 2018
 * Economics and Law (advanced-undergraduate), Fall 2018
 * Economic Forecasting (advanced-undergraduate), Spring 2017
+
+Student Advising
+-----
+I welcome student advising and supervision across topics related to behavioral economics, household finance, and digital marketing.
+
+For advising opportunities (undergraduate, RA, and graduate-level), please contact me by email with your CV and a short statement of interest.

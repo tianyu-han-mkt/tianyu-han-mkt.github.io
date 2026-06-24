@@ -94,7 +94,39 @@ redirect_from:
         <li>Economic Forecasting (advanced-undergraduate): Spring 2017</li>
       </ul>
     </div>
-    <p class="cv-li-links">Full teaching list: <a href="/teaching/">Teaching page</a></p>
+    <p class="cv-li-links">Full teaching and student advising list: <a href="/teaching/">Teaching page</a></p>
+  </section>
+
+  <section class="cv-li-card">
+    <h2>Invited Talks (including scheduled)</h2>
+    <div class="cv-li-item">
+      <p class="cv-li-sub">Please see the talks list for invited presentations and scheduled talks.</p>
+      <p class="cv-li-links"><a href="/talks/">View invited talks and schedule</a></p>
+    </div>
+  </section>
+
+  <section class="cv-li-card">
+    <h2>Fellowships, Honors, and Grants</h2>
+    <div class="cv-li-item">
+      <p class="cv-li-sub">Selected fellowships, honors, and grants are available in the detailed CV (PDF).</p>
+      <p class="cv-li-links"><a href="https://drive.google.com/uc?export=download&id=1aicB98E6aoQ3HEa_3wtQpNTO9OLhBKdl" target="_blank" rel="noopener noreferrer">Download detailed CV (PDF)</a></p>
+    </div>
+  </section>
+
+  <section class="cv-li-card">
+    <h2>Services</h2>
+    <div class="cv-li-item">
+      <p class="cv-li-sub">Academic and professional service details are maintained in the detailed CV (PDF).</p>
+      <p class="cv-li-links"><a href="https://drive.google.com/uc?export=download&id=1aicB98E6aoQ3HEa_3wtQpNTO9OLhBKdl" target="_blank" rel="noopener noreferrer">Download detailed CV (PDF)</a></p>
+    </div>
+  </section>
+
+  <section class="cv-li-card">
+    <h2>Media Coverage</h2>
+    <div class="cv-li-item">
+      <p class="cv-li-sub">Media coverage related to research projects is maintained in the detailed CV (PDF).</p>
+      <p class="cv-li-links"><a href="https://drive.google.com/uc?export=download&id=1aicB98E6aoQ3HEa_3wtQpNTO9OLhBKdl" target="_blank" rel="noopener noreferrer">Download detailed CV (PDF)</a></p>
+    </div>
   </section>
 
   <section class="cv-li-card">
