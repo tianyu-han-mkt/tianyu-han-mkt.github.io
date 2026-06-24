@@ -189,6 +189,121 @@ body {
   color: var(--text-secondary);
 }
 
+/* LinkedIn-style CV layout */
+.cv-li-hero {
+  display: grid;
+  grid-template-columns: 110px 1fr auto;
+  gap: 1rem;
+  align-items: center;
+  background: linear-gradient(140deg, #f4f8ff 0%, #ffffff 70%);
+  border: 1px solid #dfe7f7;
+  border-radius: 14px;
+  padding: 1rem;
+  margin-bottom: 1rem;
+}
+
+.cv-li-avatar {
+  width: 96px;
+  height: 96px;
+  object-fit: cover;
+  border-radius: 14px;
+  border: 2px solid #fff;
+  box-shadow: 0 8px 22px rgba(20, 33, 61, 0.16);
+}
+
+.cv-li-hero-main h2 {
+  margin: 0;
+}
+
+.cv-li-headline {
+  margin: 0.25rem 0 0;
+  font-weight: 600;
+  color: #1e3a8a;
+}
+
+.cv-li-meta {
+  margin: 0.25rem 0 0.6rem;
+  color: #5b6b87;
+}
+
+.cv-li-tags {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.4rem;
+}
+
+.cv-li-tags span {
+  border: 1px solid #d7e2f4;
+  background: #f8fbff;
+  color: #324768;
+  border-radius: 999px;
+  padding: 0.2rem 0.55rem;
+  font-size: 0.78rem;
+  font-weight: 600;
+}
+
+.cv-li-actions {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  gap: 0.4rem;
+}
+
+.cv-li-actions-note {
+  margin: 0;
+  font-size: 0.75rem;
+  color: #6b7280;
+}
+
+.cv-li-card {
+  border: 1px solid #dfe7f7;
+  border-radius: 14px;
+  background: #fff;
+  padding: 1rem 1.1rem;
+  box-shadow: 0 6px 18px rgba(15, 23, 42, 0.04);
+  margin-bottom: 0.95rem;
+}
+
+.cv-li-card h2 {
+  margin-top: 0;
+}
+
+.cv-li-item + .cv-li-item {
+  margin-top: 1rem;
+  padding-top: 0.9rem;
+  border-top: 1px solid #e8eef9;
+}
+
+.cv-li-item h3 {
+  margin: 0;
+  font-size: 1rem;
+  color: #0f172a;
+}
+
+.cv-li-sub,
+.cv-li-time,
+.cv-li-links {
+  margin: 0.25rem 0 0;
+  color: #5b6b87;
+}
+
+.cv-li-skill-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  gap: 0.9rem;
+}
+
+.cv-li-skill-grid > div {
+  border: 1px solid #e5ecfa;
+  border-radius: 10px;
+  background: #fbfcff;
+  padding: 0.75rem 0.8rem;
+}
+
+.cv-li-skill-grid h3 {
+  margin-top: 0;
+}
+
 /* Round 2 refinement: stronger consistency */
 .layout--single .page__inner-wrap,
 .layout--splash .page__inner-wrap {
@@ -231,5 +346,18 @@ body {
   .page__content p,
   .page__content li {
     line-height: 1.65;
+  }
+
+  .cv-li-hero {
+    grid-template-columns: 1fr;
+    justify-items: start;
+  }
+
+  .cv-li-actions {
+    align-items: flex-start;
+  }
+
+  .cv-li-skill-grid {
+    grid-template-columns: 1fr;
   }
 }
