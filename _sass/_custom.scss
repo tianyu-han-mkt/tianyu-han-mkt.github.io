@@ -1,16 +1,16 @@
 /* Unified visual polish across primary pages */
 :root {
-  --site-bg: #f7f9fc;
+  --site-bg: #f3f5f8;
   --card-bg: #ffffff;
-  --card-border: #e3e8f3;
-  --text-primary: #1f2937;
-  --text-secondary: #4b5563;
-  --accent: #1f4aa8;
-  --accent-hover: #173a83;
+  --card-border: #dce2e9;
+  --text-primary: #1f2933;
+  --text-secondary: #4d5966;
+  --accent: #334155;
+  --accent-hover: #1f2937;
 }
 
 body {
-  background: linear-gradient(180deg, #f8fafd 0%, #f4f7fb 100%);
+  background: linear-gradient(180deg, #f7f8fa 0%, #eff2f5 100%);
   color: var(--text-primary);
 }
 
@@ -47,7 +47,7 @@ body {
   background: var(--card-bg);
   border: 1px solid var(--card-border);
   border-radius: 14px;
-  box-shadow: 0 8px 30px rgba(20, 33, 61, 0.04);
+  box-shadow: 0 12px 34px rgba(15, 23, 42, 0.06);
   padding: 1.25rem 1.5rem;
 }
 
@@ -266,6 +266,8 @@ body {
 
 .cv-li-card h2 {
   margin-top: 0;
+  padding-bottom: 0.5rem;
+  border-bottom: 1px solid #dce3ea;
 }
 
 .cv-li-item + .cv-li-item {
@@ -302,6 +304,33 @@ body {
 
 .cv-li-skill-grid h3 {
   margin-top: 0;
+}
+
+/* Main-page profile: approximately 1.6x visual scale */
+@media (min-width: 57.8125em) {
+  .sidebar {
+    width: 24%;
+    margin-right: 2%;
+  }
+
+  .page {
+    width: 74%;
+    padding-left: 2%;
+    padding-right: 4%;
+  }
+
+  .sidebar .author__name {
+    font-size: 1.6em;
+  }
+
+  .sidebar .author__bio {
+    font-size: 1.2em;
+    line-height: 1.55;
+  }
+
+  .author__urls a {
+    font-size: 1.08em;
+  }
 }
 
 /* Round 2 refinement: stronger consistency */
