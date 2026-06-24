@@ -24,10 +24,18 @@ redirect_from:
       </div>
     </div>
     <div class="cv-li-actions">
-      <a class="cv-download" href="https://drive.google.com/uc?export=download&id=1aicB98E6aoQ3HEa_3wtQpNTO9OLhBKdl" target="_blank" rel="noopener noreferrer">
-        Download PDF Resume
+      <a
+        class="cv-download cv-review-trigger"
+        href="#"
+        data-pdf-part-a="1aicB98E6aoQ3"
+        data-pdf-part-b="HEa_3wtQpNTO9"
+        data-pdf-part-c="OLhBKdl"
+        aria-controls="cvPdfModal"
+        aria-haspopup="dialog"
+      >
+        Review PDF Resume
       </a>
-      <p class="cv-li-actions-note">Only downloads when clicked</p>
+      <p class="cv-li-actions-note">Opens preview in a popup viewer</p>
     </div>
   </section>
 
@@ -167,5 +175,64 @@ redirect_from:
     <p>Email: <img src="/images/email.png" alt="Email" width="160" /></p>
   </section>
 
-  <p class="cv-note">This page is web-formatted for browsing. Use <strong>Download PDF Resume</strong> for a print-style resume.</p>
+  <p class="cv-note">This page is web-formatted for browsing. Use <strong>Review PDF Resume</strong> to preview the PDF.</p>
 </div>
+
+<div class="cv-pdf-modal" id="cvPdfModal" aria-hidden="true" role="dialog" aria-modal="true" aria-labelledby="cvPdfModalTitle">
+  <div class="cv-pdf-modal__backdrop" data-close-pdf-modal></div>
+  <div class="cv-pdf-modal__panel">
+    <div class="cv-pdf-modal__header">
+      <h2 id="cvPdfModalTitle">Resume Preview</h2>
+      <button type="button" class="cv-pdf-modal__close" data-close-pdf-modal aria-label="Close resume preview">Close</button>
+    </div>
+    <iframe id="cvPdfFrame" title="PDF resume preview" loading="lazy" referrerpolicy="no-referrer"></iframe>
+  </div>
+</div>
+
+<script>
+  (function () {
+    var trigger = document.querySelector(".cv-review-trigger");
+    var modal = document.getElementById("cvPdfModal");
+    var frame = document.getElementById("cvPdfFrame");
+    var closeButtons = document.querySelectorAll("[data-close-pdf-modal]");
+
+    if (!trigger || !modal || !frame) {
+      return;
+    }
+
+    function getPreviewUrl() {
+      var a = trigger.getAttribute("data-pdf-part-a") || "";
+      var b = trigger.getAttribute("data-pdf-part-b") || "";
+      var c = trigger.getAttribute("data-pdf-part-c") || "";
+      return "https://drive.google.com/file/d/" + a + b + c + "/preview";
+    }
+
+    function openModal() {
+      modal.setAttribute("aria-hidden", "false");
+      document.body.classList.add("cv-modal-open");
+      if (!frame.getAttribute("src")) {
+        frame.setAttribute("src", getPreviewUrl());
+      }
+    }
+
+    function closeModal() {
+      modal.setAttribute("aria-hidden", "true");
+      document.body.classList.remove("cv-modal-open");
+    }
+
+    trigger.addEventListener("click", function (event) {
+      event.preventDefault();
+      openModal();
+    });
+
+    closeButtons.forEach(function (button) {
+      button.addEventListener("click", closeModal);
+    });
+
+    document.addEventListener("keydown", function (event) {
+      if (event.key === "Escape" && modal.getAttribute("aria-hidden") === "false") {
+        closeModal();
+      }
+    });
+  })();
+</script>
