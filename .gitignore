@@ -1,0 +1,29 @@
+.DS_Store
+**/.DS_Store
+._*
+.Spotlight-V100/
+.Trashes/
+.fseventsd/
+
+# Editor / IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Ruby / Jekyll cache
+.bundle/
+.jekyll-cache/
+.sass-cache/
+.jekyll-metadata
+
+# Node
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Python cache (for notebooks/scripts)
+__pycache__/
+*.pyc
