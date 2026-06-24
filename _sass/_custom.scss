@@ -76,6 +76,8 @@ body {
   letter-spacing: -0.02em;
   color: #111827;
   margin-bottom: 0.65rem;
+  font-family: "Iowan Old Style", "Palatino Linotype", "Book Antiqua", "Times New Roman", serif;
+  font-weight: 700;
 }
 
 .page__content {
@@ -99,6 +101,8 @@ body {
 .page__content h2 {
   color: #0f172a;
   font-size: clamp(1.25rem, 2vw, 1.45rem);
+  font-family: "Iowan Old Style", "Palatino Linotype", "Book Antiqua", "Times New Roman", serif;
+  font-weight: 700;
 }
 
 .page__content h3 {
@@ -180,6 +184,9 @@ body {
 /* CV page components */
 .cv-page {
   margin-top: 0.25rem;
+  max-width: 1080px;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .cv-header {
@@ -200,7 +207,7 @@ body {
   justify-content: center;
   border: 1px solid var(--accent);
   color: #fff !important;
-  background: var(--accent);
+  background: linear-gradient(135deg, #253547 0%, #1f2937 100%);
   border-radius: 999px;
   padding: 0.55rem 1rem;
   font-weight: 600;
@@ -210,7 +217,7 @@ body {
 }
 
 .cv-download:hover {
-  background: var(--accent-hover);
+  background: linear-gradient(135deg, #1f2937 0%, #111827 100%);
   border-color: var(--accent-hover);
 }
 
@@ -315,12 +322,25 @@ body {
 
 .cv-li-card {
   border: 1px solid var(--card-border);
-  border-radius: 14px;
-  background: #fff;
+  border-radius: 16px;
+  background: linear-gradient(180deg, #ffffff 0%, #fcfdff 100%);
   padding: 1rem 1.1rem;
-  box-shadow: 0 6px 18px rgba(15, 23, 42, 0.04);
+  box-shadow: 0 10px 26px rgba(15, 23, 42, 0.055);
   margin-bottom: 0.95rem;
   transition: box-shadow 180ms ease, border-color 180ms ease;
+  position: relative;
+}
+
+.cv-li-card::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 4px;
+  border-radius: 16px 16px 0 0;
+  background: linear-gradient(90deg, #42556c 0%, #7c8da1 100%);
+  opacity: 0.22;
 }
 
 .cv-li-card:hover {
@@ -330,8 +350,11 @@ body {
 
 .cv-li-card h2 {
   margin-top: 0;
-  padding-bottom: 0.5rem;
+  padding-top: 0.1rem;
+  padding-bottom: 0.55rem;
   border-bottom: 1px solid var(--card-border);
+  font-family: "Iowan Old Style", "Palatino Linotype", "Book Antiqua", "Times New Roman", serif;
+  letter-spacing: 0.01em;
 }
 
 .cv-li-item + .cv-li-item {
@@ -342,8 +365,13 @@ body {
 
 .cv-li-item h3 {
   margin: 0;
-  font-size: 1rem;
+  font-size: 1.06rem;
   color: #0f172a;
+  font-family: "Iowan Old Style", "Palatino Linotype", "Book Antiqua", "Times New Roman", serif;
+}
+
+.cv-li-card .cv-list li {
+  margin-bottom: 0.52rem;
 }
 
 .cv-li-sub,
