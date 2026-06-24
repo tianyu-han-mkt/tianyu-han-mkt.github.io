@@ -34,4 +34,7 @@ Student Advising
 -----
 I welcome student advising and supervision across topics related to behavioral economics, household finance, and digital marketing.
 
+* Sirui Wang (Research Assistant, 2026) - placed into Ph.D. program at HKU
+* Yuqian Tang (Research Assistant, 2025) - placed into Ph.D. program at Rochester
+
 For advising opportunities (undergraduate, RA, and graduate-level), please contact me by email with your CV and a short statement of interest.
