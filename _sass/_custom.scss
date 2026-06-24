@@ -20,6 +20,24 @@ body {
   border-bottom: 1px solid var(--card-border);
 }
 
+.greedy-nav {
+  background: transparent;
+}
+
+.greedy-nav a {
+  color: #334155;
+  font-weight: 500;
+}
+
+.greedy-nav a:hover {
+  color: var(--accent);
+}
+
+.greedy-nav .visible-links a:before {
+  background: var(--accent);
+  height: 3px;
+}
+
 .page,
 .archive {
   margin-top: 1.25rem;
@@ -35,6 +53,7 @@ body {
 
 .page__title {
   letter-spacing: -0.02em;
+  color: #111827;
 }
 
 .page__content {
@@ -52,6 +71,10 @@ body {
   margin-top: 1.75rem;
   margin-bottom: 0.75rem;
   letter-spacing: -0.01em;
+}
+
+.page__content h2 {
+  color: #0f172a;
 }
 
 .page__content hr {
@@ -81,6 +104,19 @@ body {
 
 .page__content a:hover {
   color: var(--accent-hover);
+}
+
+.page__content img {
+  border-radius: 10px;
+  box-shadow: 0 8px 20px rgba(15, 23, 42, 0.08);
+}
+
+.page__content ul {
+  padding-left: 1.1rem;
+}
+
+.page__content ul li::marker {
+  color: #5b6b87;
 }
 
 /* CV page components */
@@ -153,6 +189,27 @@ body {
   color: var(--text-secondary);
 }
 
+/* Round 2 refinement: stronger consistency */
+.layout--single .page__inner-wrap,
+.layout--splash .page__inner-wrap {
+  border-radius: 16px;
+}
+
+.page__content > h2 {
+  margin-top: 1.6rem;
+  padding-bottom: 0.45rem;
+  border-bottom: 1px solid #dfe6f4;
+}
+
+.page__content > h2:first-of-type {
+  margin-top: 0.4rem;
+}
+
+.author__avatar img {
+  border-radius: 14px;
+  box-shadow: 0 10px 28px rgba(15, 23, 42, 0.12);
+}
+
 @media (max-width: 900px) {
   .cv-grid {
     grid-template-columns: 1fr;
@@ -165,5 +222,14 @@ body {
 
   .cv-download {
     width: fit-content;
+  }
+
+  .page__inner-wrap {
+    padding: 1rem;
+  }
+
+  .page__content p,
+  .page__content li {
+    line-height: 1.65;
   }
 }
