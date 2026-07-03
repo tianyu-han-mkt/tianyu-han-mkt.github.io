@@ -40,6 +40,29 @@ Before making a choice, individuals can gradually gather information on multiple
 </details>
 <br/>
 
+
+"The Missing Wage: Consumer Aversion to AI-Generated Products," with Song Lin and Mingduo Zhao, July 2026 (draft available upon request)
+<details>
+<summary>Abstract</summary>
+<br>
+(Preliminary) Generative AI produces creative work at a lower cost and often with an indistinguishable quality, yet consumers are willing to pay less for goods labeled AI-made. In an incentive-compatible experiment, participants priced T-shirts identical except for a human-versus-AI label. The label lowers willingness to pay by \$4.18 (23\%) and cuts the labor income consumers believe reaches workers by 29\%, yet barely moves perceived seller profit: consumers deem production with AI as a missing wage, not firm enrichment. A randomized triple-difference identifies this distributional channel causally: laborer displacement information deepens the penalty by \$1.71, and a promise to redistribute a third of the AI surplus to displaced workers closes three-quarters of that increase. Quality beliefs explain more of the AI aversion, but the distributional component reflects a fairness preference: aversion tracks how much consumers care about workers. Disclosure is not demand-neutral; firms can recover much of the AI aversion by credibly sharing AI's gains with workers or signaling that the human labor behind their products is compensated.
+<br>
+<img src="/images/wtp_bar.png" alt="Willingness to Pay by Source Label" width="400"/>
+<img src="/images/belief_shifts.png" alt="Treatment-Induced Shifts in Wage and Profit Beliefs" width="510"/>
+</details>
+<br/>
+
+
+"Information Silos on Social Media: Experimental Evidence from TikTok," with Wenbo Wang and Zijun (June) Shi, July 2026 (draft available upon request)
+<details>
+<summary>Abstract</summary>
+<br>
+(Preliminary) Algorithmic recommender systems frequently trap social media users in reinforcing information silos. Through a field experiment on TikTok, we introduce an individual-level Information Silo Index that decomposes silo intensity into intrapersonal topic variety and interpersonal divergence from population norms. We first document an awareness gap where users systematically underestimate their silo depth and falsely perceive their consumption as highly diverse. Evaluating three behavioral nudges, we demonstrate that aggregate treatment effectiveness depends on demand-side heterogeneity. Generic reminders are effective among identity-aligned users who consume group-consistent content to reduce silo intensity. Personalized scientific feedback broadens content exploration for users motivated by distinction-seeking and those holding strong normative beliefs regarding the social importance of diversity. These imply that breaking algorithmic silos requires aligning interventions with users' preferences in addition to uniform platform nudges.
+<br>
+<img src="/images/topics.png" alt="Algorithmically Pushed and Actively Viewed Topics" width="800"/>
+</details>
+<br/>
+
 -----
 
 Work in Progress
@@ -52,15 +75,5 @@ Work in Progress
 (Preliminary) In the process of acquiring credit cards, consumers often self-report their income levels, a practice that tends to be prone to unverified overstatements. We empirically investigate into the existence of such income misrepresentation and assess whether financial institutions take this potential exaggeration into account. Collaborating with a leading commercial bank in China, we survey consumers on their income growth rates. By utilizing these reported growth rates and current incomes, we infer the consumers' actual income at the time of their credit card application. Our findings indicate a significant degree of income over-reporting among consumers, with an average exaggeration of approximately 30%. Further, we employ a quasi-experimental approach to determine the causal effect of this income misreporting on the allocation of credit limits. Our results suggest that the bank does, in fact, take into account such misreporting behaviors: income exaggerated by 10% decreases credit limit by around 100 US dollars. This study provides insights into consumer behaviors in credit card applications and the corresponding response of financial institutions.
 <br>
 <img src="/images/income.png" alt="Event Study" width="400"/>
-</details>
-<br/>
-
-"Information Silos on Social Media," with Wenbo Wang and Zijun (June) Shi
-<details>
-<summary>Abstract</summary>
-<br>
-(Preliminary) Social media platforms often confine users to information silos, creating narrow loops of reinforced interests that limit exposure to diverse perspectives and exacerbate societal divisions. This study introduces a metric to systematically quantify this phenomenon through two dimensions: intrapersonal variety, reflecting the breadth of individual topic engagement, and interpersonal difference, capturing the divergence of user consumption from population norms. Focusing on TikTok, we combine demographic surveys with a field experiment wherein participants record their browsing behavior. We analyze video topics to compute this information silo index, identify silo formation patterns, and correlate them with user characteristics. Furthermore, we test experimental interventions by providing users with tailored feedback on their content consumption habits. Our results demonstrate the intensity of information silos, assess user awareness, and establish the efficacy of feedback mechanisms in disrupting these patterns to foster broader content engagement.
-<br>
-<!-- <img src="/images/income.png" alt="Event Study" width="400"/> -->
 </details>
 <br/>
