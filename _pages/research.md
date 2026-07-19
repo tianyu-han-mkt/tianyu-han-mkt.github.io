@@ -9,7 +9,7 @@ author_profile: true
 
 Working Papers
 -----
-"Cost Misperception: The Impact of Misunderstanding Credit Card Debt Expenses," April 2026, *Major Revision at Management Science* ([draft](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4256372))
+"Cost Misperception: The Impact of Misunderstanding Credit Card Debt Expenses," single authored, April 2026, *Major Revision (2nd round) at Management Science* ([draft](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4256372))
 <details>
 <summary>Abstract</summary>
 <br>
@@ -20,7 +20,7 @@ This paper investigates consumer misperceptions of credit card debt interest cos
 </details>
 <br/>  
 
-"Rewards and Misperceived Spending: Experimental Evidence from Credit Cards," January 2026, *Major Revision at Marketing Science* ([draft](https://ssrn.com/abstract=4497019))
+"Rewards and Misperceived Spending: Experimental Evidence from Credit Cards," single authored, January 2026, *Major Revision at Marketing Science* ([draft](https://ssrn.com/abstract=4497019))
 <details>
 <summary>Abstract</summary>
 <br>
@@ -41,11 +41,11 @@ Before making a choice, individuals can gradually gather information on multiple
 <br/>
 
 
-"The Missing Wage: Consumer Aversion to AI-Generated Products," with Song Lin and Mingduo Zhao, July 2026 (draft available upon request)
+"The Missing Wage: Labor Income and Consumer Aversion for AI-Generated Products," with Song Lin and Mingduo Zhao, July 2026 (draft available upon request)
 <details>
 <summary>Abstract</summary>
 <br>
-(Preliminary) Generative AI produces creative work at a lower cost and often with an indistinguishable quality, yet consumers are willing to pay less for goods labeled AI-made. In an incentive-compatible experiment, participants priced T-shirts identical except for a human-versus-AI label. The label lowers willingness to pay by \$4.18 (23%) and cuts the labor income consumers believe reaches workers by 29%, yet barely moves perceived seller profit: consumers deem production with AI as a missing wage, not firm enrichment. A randomized triple-difference identifies this distributional channel causally: laborer displacement information deepens the penalty by \$1.71, and a promise to redistribute a third of the AI surplus to displaced workers closes three-quarters of that increase. Quality beliefs explain more of the AI aversion, but the distributional component reflects a fairness preference: aversion tracks how much consumers care about workers. Disclosure is not demand-neutral; firms can recover much of the AI aversion by credibly sharing AI's gains with workers or signaling that the human labor behind their products is compensated.
+(Preliminary) When production shifts to generative AI, the product can stay the same while the wage behind it disappears. We show that consumers price this missing wage: beliefs about the labor income a product generates for workers are a component of demand. In an incentive-compatible experiment, 5,015 participants price T-shirts identical except for a human-versus-AI label. The AI label lowers willingness to pay by $4.18 (23%) and cuts the labor income consumers believe reaches workers by 29%, while barely moving perceived seller profit. A randomized triple-difference identifies the channel causally: human laborer displacement information deepens the penalty by $1.71, and a promise to redistribute thirty percent of the AI surplus to displaced workers closes three quarters of that increase. The AI-averse preference is distributional: the penalty is concentrated among consumers who place the most weight on workers' welfare, and it responds to restoring the wage in addition to displacement information alone. Made-by-AI disclosure is therefore not demand-neutral, but its cost is partly recoverable: firms and platforms can restore such a penalty by credibly sharing AI's gains with the workers it displaces.
 <br>
 <img src="/images/wtp_bar.png" alt="Willingness to Pay by Source Label" style="height: 300px; width: auto;"/>
 <img src="/images/belief_shifts.png" alt="Treatment-Induced Shifts in Wage and Profit Beliefs" style="height: 300px; width: auto;"/>
