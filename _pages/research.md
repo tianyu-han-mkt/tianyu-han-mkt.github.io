@@ -40,8 +40,17 @@ Before making a choice, individuals can gradually gather information on multiple
 </details>
 <br/>
 
+"Information Silos on Social Media: Experimental Evidence from TikTok," with Wenbo Wang and Zijun (June) Shi, October 2026 ([draft](https://papers.ssrn.com/abstract=7647238))
+<details>
+<summary>Abstract</summary>
+<br>
+Recommender systems are often blamed for trapping consumers in information silos on social media. We propose an individual-level Information Silo Index that combines how broadly a user's consumption spreads across topics with how far it departs from other users' consumption, and apply it to screen-recorded browsing from 1,256 TikTok users in a field experiment. Most of the topics a user does not engage with never appear in the user's recorded feed. Users' beliefs about their own topic coverage bear little relation to their measured coverage. Telling users the number of topic categories they covered raises the share of served videos they engage with. It also lowers the silo index more for users who start out more siloed, but backfires among users who are already well informed about their own content consumption.
+<br>
+<img src="/images/topics.png" alt="Algorithmically Pushed and Actively Viewed Topics" width="800"/>
+</details>
+<br/>
 
-"The Missing Wage: Labor Income and Consumer Aversion for AI-Generated Products," with Song Lin and Mingduo Zhao, July 2026 (draft available upon request)
+"Social Preferences and AI Aversion," with Song Lin and Mingduo Zhao, July 2026 (draft available upon request)
 <details>
 <summary>Abstract</summary>
 <br>
@@ -52,16 +61,6 @@ Before making a choice, individuals can gradually gather information on multiple
 </details>
 <br/>
 
-
-"Information Silos on Social Media: Experimental Evidence from TikTok," with Wenbo Wang and Zijun (June) Shi, July 2026 (draft available upon request)
-<details>
-<summary>Abstract</summary>
-<br>
-(Preliminary) Algorithmic recommender systems are widely accused of trapping social media users in self-reinforcing information silos. We introduce an individual-level Information Silo Index that decomposes silo intensity into intrapersonal topic variety and interpersonal divergence from population norms, measured via screen-recorded browsing data from $1{,}268$ TikTok users in a randomized field experiment. We document an awareness gap where users systematically underestimate their silo depth. Disclosing users' own topic coverage causally changes behavior: treated users engage a $2.7$ percentage point larger share of served content, while effects on the silo indices themselves are directionally consistent but modest. Appending persuasive framing to the same disclosure adds no aggregate response, and heterogeneity analyses suggest why: personalized scientific feedback broadens exploration for distinction-seeking consumers but backfires among users whose self-perceptions are already accurate, so subgroup responses cancel within arms. Platform nudges aimed at algorithmic de-siloing should therefore rely less on persuasive content and align richer framing with users' latent social motivations.
-<br>
-<img src="/images/topics.png" alt="Algorithmically Pushed and Actively Viewed Topics" width="800"/>
-</details>
-<br/>
 
 -----
 
